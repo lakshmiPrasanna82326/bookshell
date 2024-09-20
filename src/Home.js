@@ -63,7 +63,7 @@ const Home = () => {
         </div>
 
 
-        <button className='border bg-blue-500 rounded-lg w-[100px] h-10 flex m-auto text-center p-1 mt-7' onClick={loadMore}>Load More...</button>
+        <button className='border bg-blue-500 rounded-lg w-[100px] h-10 flex m-auto text-center p-1 mt-7' onClick={loadMore}>Load More....</button>
 
         <footer id="footer" className='bg-gray-400 h-[200px] mt-5  '>
           <ul className='   absolute mt-[10px]'>
